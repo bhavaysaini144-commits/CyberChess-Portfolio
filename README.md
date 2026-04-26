@@ -4,7 +4,6 @@
 
 ## 🚀 Live Demo
 **[Click here to Play CyberChess](https://cyberchess-portfolio.onrender.com)**
-*(Replace this link with your actual Render URL)*
 
 ## 💡 Overview
 CyberChess is an engineering exploration into **game state persistence** and **latency management**. Unlike standard chess apps that rely on client-side libraries, this project implements the game logic entirely on the server using **Python**.
