@@ -3,7 +3,7 @@
 > A full-stack chess application featuring custom heuristic algorithms, server-side state management, and Optimistic UI rendering.
 
 ## 🚀 Live Demo
-**[Click here to Play CyberChess](https://your-app-url-here.onrender.com)**
+**[Click here to Play CyberChess](https://cyberchess-portfolio.onrender.com)**
 *(Replace this link with your actual Render URL)*
 
 ## 💡 Overview
